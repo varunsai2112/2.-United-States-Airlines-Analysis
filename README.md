@@ -1,4 +1,4 @@
-# 2.-United-States-Airlines-Analysis
+# United-States-Airlines-Analysis
 
 DESCRIPTION
 
